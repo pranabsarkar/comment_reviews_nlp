@@ -1,0 +1,6 @@
+smote_variants==0.2.6
+pandas==0.24.2
+numpy==1.16.2
+textblob==0.15.3
+nltk==3.4
+scikit_learn==0.20.3
